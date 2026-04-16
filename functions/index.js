@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/p0'
-const dohjson = 'https://freedns.controld.com/p0'
+const doh = 'https://dns.google/dns-query'
+const dohjson = 'https://dns.google/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
